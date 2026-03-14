@@ -1,8 +1,8 @@
 # TUSD_R_script
 
 ## Repository presentation
-This is the R script associated to the publication for XXXX of the Tajik-Uzbek Surface sample Database.
-The data associated to this R scrip will be soon available on [pangaea](https://www.pangaea.de/).
+This is the R script associated to the publication for `First paleoenvironmental calibrations for modern pollen rain of Tajikistan and Uzbekistan: A case study of pollen - vegetation functional biogeography of Arid Central Asia' of the Tajik-Uzbek Surface sample Database` published in `Global and Planetary Change` in 2025.
+The data associated to this R scrip are available on [pangaea](https://doi.pangaea.de/10.1594/PANGAEA.979582).
 
 
 ## Acknowledgements
