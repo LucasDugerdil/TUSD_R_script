@@ -4,8 +4,8 @@
 This is the R script associated to the publication for *First paleoenvironmental calibrations for modern pollen rain of Tajikistan and Uzbekistan: A case study of pollen - vegetation functional biogeography of Arid Central Asia' of the Tajik-Uzbek Surface sample Database* published in *Global and Planetary Change* in 2025.
 The article is citable at [![DOI](10.1016/j.gloplacha.2025.104857)](https://doi.org/10.1016/j.gloplacha.2025.104857).
 The data associated to this R scrip are available on [pangaea](https://doi.pangaea.de/10.1594/PANGAEA.979582).
-This script is available on zenodo and citable at 
-[![DOI](https://zenodo.org/badge/952259754.svg)](https://doi.org/10.5281/zenodo.16658140).
+This script is available on zenodo and citable:
+[![DOI](https://zenodo.org/badge/19019967.svg)](https://doi.org/10.5281/zenodo.19019967)
 
 ## Acknowledgements
 This research has been financed by the `STEPABILITY` ANR project
