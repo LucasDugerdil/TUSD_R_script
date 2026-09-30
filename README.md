@@ -1,4 +1,4 @@
-# TUSD_R_script
+# Tajikistan-Uzbekistan pollen Surface Data Base (TUSDB)
 
 ## Repository presentation
 This is the R script associated to the publication for "*First paleoenvironmental calibrations for modern pollen rain of Tajikistan and Uzbekistan: A case study of pollen - vegetation functional biogeography of Arid Central Asia*" published in *Global and Planetary Change* in 2025 (Dugerdil et al., 2025b).
